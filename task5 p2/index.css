@@ -1,0 +1,76 @@
+input[type="button"] {
+  padding: 10px;
+  background-color: cornflowerblue;
+  color: white;
+  margin-top: 30px;
+  border-color: white;
+  border-style: solid;
+}
+h3 {
+  text-align: center;
+  color: grey;
+}
+.para {
+  display: block;
+  width: 400px;
+}
+div {
+  margin-bottom: 50px;
+}
+#header {
+  display: inline-block;
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+#first_div {
+  background-color: cornflowerblue;
+  padding: 40px;
+  color: white;
+}
+
+.about_us_span {
+  display: inline-block;
+  width: 800px;
+  margin-bottom: 25px;
+}
+#img2 {
+  float: right;
+  margin-right: 100px;
+}
+#img1 {
+  float: right;
+  margin-right: 100px;
+}
+body {
+  margin-right: 40px;
+  margin-left: 10px;
+}
+
+.navbar {
+  margin-bottom: 10px;
+}
+
+.nav-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: right;
+}
+
+.nav-item {
+  padding: 14px 20px;
+}
+
+.nav-item a {
+  color: gray;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+}
+
+.nav-item a:hover {
+  background-color: cornflowerblue;
+  color: white;
+}
